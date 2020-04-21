@@ -27,11 +27,17 @@ gulp package-solution - TODO
 
 ### Bash Commands
 ls - Lists all files and folders in the directory
+
 cd (directory name) - Change Directory
+
 mkdir (directory name) - Make New Directory
+
 ### Git Commands (run in Bash)
+
 status - Shows you the status of what is happening in your git. Use often!
+
 ### Steps to add a new or modified file or files
+
 stage (file name) - Prepares file(s) for commit
 stage -A to stage all files
 commit -m "type in a good commit message"
