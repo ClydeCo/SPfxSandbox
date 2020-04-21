@@ -44,7 +44,7 @@ git stage -A to stage all files
 
 git commit -m "type in a good commit message"
 
-git commit -a to stage all files
+git commit -a to commit all files
 
 git commits (saves) file(s) to your local git repository with a message of what you are comitting
 
